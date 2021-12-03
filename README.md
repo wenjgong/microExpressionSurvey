@@ -7,10 +7,10 @@
 
 4.Run the apex4.m and apex9.m files to get the apex frame and the corresponding label in the database.
 
-5. Run main4.m and main9.m files for training and testing, and the verification method used is LOVO.
+5.Run main4.m and main9.m files for training and testing, and the verification method used is LOVO.
 
-6. Before running, you need to randomly sample the data to ensure that all labels are equal. C4.mat and C9.mat store the apex frames we have randomly selected, and label4.mat and label9.mat store the labels corresponding to the apex frames.
+6.Before running, you need to randomly sample the data to ensure that all labels are equal. C4.mat and C9.mat store the apex frames we have randomly selected, and label4.mat and label9.mat store the labels corresponding to the apex frames.
 
-7. Before running, you need to load net4.mat and net9.mat.
+7.Before running, you need to load net4.mat and net9.mat.
 
-8. The trained network is saved in net4.rar and net9.rar, which can reproduce the results in the paper.
+8.The trained network is saved in net4.rar and net9.rar, which can reproduce the results in the paper.
